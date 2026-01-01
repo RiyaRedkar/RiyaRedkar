@@ -9,7 +9,7 @@
 ### ✨ About Me
 I’m an AI engineering student deeply interested in **Generative AI** and building intelligent systems that work in real-world scenarios.
 
-I enjoy exploring how modern AI models think and learn — from experimenting with ideas to turning them into functional prototypes. Hackathons, fast iterations, and problem-solving under constraints genuinely excite me.
+I enjoy exploring how modern AI models think and learning from experimenting with ideas to turning them into functional prototypes. Hackathons, fast iterations, and problem-solving under constraints genuinely excite me.
 
 ---
 
