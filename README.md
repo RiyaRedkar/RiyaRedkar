@@ -23,7 +23,13 @@ I enjoy exploring how modern AI models think and learning from experimenting wit
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++  
-- **Frameworks & Tools:** TensorFlow, OpenCV, MediaPipe, Streamlit  
+- **AI / ML:** TensorFlow, Machine Learning fundamentals, Deep Learning (CNNs, sequence models)  
+- **Computer Vision:** OpenCV, MediaPipe (hand & pose tracking)  
+- **GenAI & NLP:** LLM integration, prompt-based text refinement  
+- **Data & Retrieval:** Vector Databases (embeddings, similarity search), Graph Databases (relationship modeling)  
+- **Frameworks & Apps:** Streamlit (AI demos & rapid prototyping)  
+- **Dev & Workflow:** Git, GitHub, hackathon-driven MVP development  
+- **Hardware (Learning):** Arduino Uno, motor control basics   
 
 ---
 
