@@ -1,6 +1,10 @@
-<h2 align="center">Hi, I’m Riya 👋</h2>
+<h2 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514047/17414/blob-wave.gif" width="28"/>
+  Hi, I’m Riya
+</h2>
 
 <p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514930/18138/blob-sparkles.gif" width="18"/>
   <i>Generative AI • Artificial Intelligence • Intelligent Systems</i>
 </p>
 
