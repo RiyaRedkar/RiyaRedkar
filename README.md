@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514047/17414/blob-wave.gif" width="28"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
   Hi, I’m Riya
 </h2>
 
